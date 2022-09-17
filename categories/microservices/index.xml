@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Code Complete</title>
-    <link>https://edward-teixeira.github.io/posts/</link>
-    <description>Recent content in Posts on Code Complete</description>
+    <title>Microservices on Code Complete</title>
+    <link>https://edward-teixeira.github.io/categories/microservices/</link>
+    <description>Recent content in Microservices on Code Complete</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Sep 2022 12:32:41 -0300</lastBuildDate><atom:link href="https://edward-teixeira.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 12:32:41 -0300</lastBuildDate><atom:link href="https://edward-teixeira.github.io/categories/microservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekly Reading #1</title>
       <link>https://edward-teixeira.github.io/posts/post/</link>

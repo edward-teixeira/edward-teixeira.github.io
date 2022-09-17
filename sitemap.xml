@@ -2,22 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://edward-teixeira.github.io/</loc>
-    <lastmod>2022-09-17T07:36:18-03:00</lastmod>
-  </url><url>
-    <loc>https://edward-teixeira.github.io/posts/post3/</loc>
-    <lastmod>2022-09-17T07:36:18-03:00</lastmod>
-  </url><url>
-    <loc>https://edward-teixeira.github.io/posts/</loc>
-    <lastmod>2022-09-17T07:36:18-03:00</lastmod>
-  </url><url>
-    <loc>https://edward-teixeira.github.io/posts/post2/</loc>
-    <lastmod>2022-09-17T07:29:18-03:00</lastmod>
-  </url><url>
-    <loc>https://edward-teixeira.github.io/posts/post/</loc>
-    <lastmod>2022-09-17T06:33:05-03:00</lastmod>
-  </url><url>
     <loc>https://edward-teixeira.github.io/categories/</loc>
+  </url><url>
+    <loc>https://edward-teixeira.github.io/</loc>
   </url><url>
     <loc>https://edward-teixeira.github.io/tags/</loc>
   </url>
