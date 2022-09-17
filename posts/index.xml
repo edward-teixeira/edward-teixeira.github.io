@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Edward&#39;s Blog</title>
-    <link>https://edward-teixeira.github.io/posts/</link>
-    <description>Recent content in Posts on Edward&#39;s Blog</description>
+    <title>Posts on Blog</title>
+    <link>https://edwardteixeira.github.io/posts/</link>
+    <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Sep 2022 07:29:18 -0300</lastBuildDate><atom:link href="https://edward-teixeira.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 07:36:18 -0300</lastBuildDate><atom:link href="https://edwardteixeira.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Post2</title>
-      <link>https://edward-teixeira.github.io/posts/post2/</link>
-      <pubDate>Sat, 17 Sep 2022 07:29:18 -0300</pubDate>
+      <title>Post3</title>
+      <link>https://edwardteixeira.github.io/posts/post3/</link>
+      <pubDate>Sat, 17 Sep 2022 07:36:18 -0300</pubDate>
       
-      <guid>https://edward-teixeira.github.io/posts/post2/</guid>
+      <guid>https://edwardteixeira.github.io/posts/post3/</guid>
       <description>This is some content
 docker run -d --name prometheus-container -e TZ=UTC -p 30090:9090 \ -v c:\your\path\to\prometheus.yml:/etc/prometheus/prometheus.yml ubuntu/prometheus </description>
     </item>
     
     <item>
-      <title>Test Post 2</title>
-      <link>https://edward-teixeira.github.io/posts/post/</link>
+      <title>Post2</title>
+      <link>https://edwardteixeira.github.io/posts/post2/</link>
+      <pubDate>Sat, 17 Sep 2022 07:29:18 -0300</pubDate>
+      
+      <guid>https://edwardteixeira.github.io/posts/post2/</guid>
+      <description>This is some content
+docker run -d --name prometheus-container -e TZ=UTC -p 30090:9090 \ -v c:\your\path\to\prometheus.yml:/etc/prometheus/prometheus.yml ubuntu/prometheus </description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://edwardteixeira.github.io/posts/post/</link>
       <pubDate>Sat, 17 Sep 2022 06:33:05 -0300</pubDate>
       
-      <guid>https://edward-teixeira.github.io/posts/post/</guid>
+      <guid>https://edwardteixeira.github.io/posts/post/</guid>
       <description>This is some content
 docker run -d --name prometheus-container -e TZ=UTC -p 30090:9090 \ -v c:\your\path\to\prometheus.yml:/etc/prometheus/prometheus.yml ubuntu/prometheus </description>
     </item>
