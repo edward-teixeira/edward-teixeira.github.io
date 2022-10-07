@@ -4,12 +4,49 @@
     <title>Weekly Reading on Edward Jr Blog</title>
             <link href="http://localhost/tags/Weekly-Reading/" rel="alternate" type="text/html" title="HTML" />
             <link href="http://localhost/tags/Weekly-Reading/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2022-10-06T22:19:08-03:00</updated>
+    <updated>2022-10-06T22:22:43-03:00</updated>
     <id>http://localhost/tags/Weekly-Reading/</id>
         <entry>
             <title>Weekly Reading #1</title>
             <link href="http://localhost/posts/post/" rel="alternate" type="text/html"  hreflang="en" />
             <id>http://localhost/posts/post/</id>
+            <published>2022-09-17T12:32:41-03:00</published>
+            <updated>2022-09-17T12:32:41-03:00</updated>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/&#34;
+&gt;ASP.NET Core Microservice with API Gateway&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://dotnetos.org/blog/2021-11-22-dotnet-monitor-grafana/&#34;
+&gt;Configuring dotnet-monitor with Prometheus and Grafana&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker&#34;
+&gt;Logging with ElasticSearch, Kibana, ASP.NET Core and Docker&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+  class=&#34;gblog-markdown__link&#34;
+  href=&#34;https://medium.com/medialesson/run-and-manage-periodic-background-tasks-in-asp-net-core-6-with-c-578a31f4b7a3&#34;
+&gt;Run and manage periodic background tasks in ASP.NET Core 6 with C#&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>   
+                                <category scheme="http://localhost/tags/Weekly-Reading" term="Weekly-Reading" label="Weekly Reading" />
+        </entry>
+        <entry>
+            <title>Weekly Reading #2</title>
+            <link href="http://localhost/posts/post-2/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost/posts/post-2/</id>
             <published>2022-09-17T12:32:41-03:00</published>
             <updated>2022-09-17T12:32:41-03:00</updated>
             <content type="html">
