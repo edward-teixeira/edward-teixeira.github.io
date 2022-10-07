@@ -2,10 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://edward-teixeira.github.io/categories/</loc>
-  </url><url>
-    <loc>https://edward-teixeira.github.io/</loc>
-  </url><url>
-    <loc>https://edward-teixeira.github.io/tags/</loc>
+    <loc>http://localhost/</loc>
+    <lastmod>2022-09-17T12:32:41-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost/posts/post/</loc>
+    <lastmod>2022-09-17T12:32:41-03:00</lastmod>
   </url>
 </urlset>
